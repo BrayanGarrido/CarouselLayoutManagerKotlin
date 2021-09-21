@@ -1,4 +1,4 @@
-# CarrouselLayoutManagerKotlin
+# CarouselLayoutManagerKotlin
 Ejemplo que utilice en mi canal de Youtube, sobre como implementar un CarouselLayoutManager en Android Studio en Kotlin.
 
 <img src="https://i.imgur.com/dpPj0eA.gif" alt="Ejemplo Carousel" width="228" height="480">
