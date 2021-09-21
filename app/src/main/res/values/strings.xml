@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Carrousel</string>
+    <string name="carousel_horizontal">Carousel Horizontal</string>
+    <string name="carousel_vertical">Carousel Vertical</string>
+</resources>
