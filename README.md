@@ -14,3 +14,5 @@ Archivos
 <h2>Nota: Se usa ViewBinding</h2>
 
 <h3>Versión Minima: Android 6 </h3>
+
+<h4>Basado en la libreria <a href="https://github.com/Azoft/CarouselLayoutManager" target="_blank">CarouselLayoutManager</a></h4>
